@@ -4,9 +4,9 @@
 
 
 ## About me
-<p>I'm a cybersecurity enthusiast with a strong interest in ethical hacking 🕵️‍♂️ and blockchain security 🔐.</p>
-<p>I have Higher Professional Training in Multimedia Application Development (DAM) 🎓💻.</p>
-<p>When I'm not coding 💻, I enjoy gaming 🎮, traveling ✈️, and learning more about emerging technologies 🚀.</p>
+<p>I'm a cybersecurity enthusiast with a strong interest in ethical hacking 🕵️‍♂️ and blockchain security 🔐</p>
+<p>I have Higher Professional Training in Multimedia Application Development (DAM) 🎓💻</p>
+<p>When I'm not coding 💻, I enjoy gaming 🎮, traveling ✈️, and learning more about emerging technologies 🚀</p>
 
 
 ## I code with
