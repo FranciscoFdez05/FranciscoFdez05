@@ -14,7 +14,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="C_Logo 1.png" height="40" alt="C_Logo.png">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
@@ -28,4 +28,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FranciscoFdez05/FranciscoFdez05/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FranciscoFdez05/FranciscoFdez05/output/pacman-contribution-graph.svg">
 </picture>
-
